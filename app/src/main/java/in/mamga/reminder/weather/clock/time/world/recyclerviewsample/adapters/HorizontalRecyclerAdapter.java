@@ -1,4 +1,4 @@
-package in.mamga.reminder.weather.clock.time.world.recyclerviewsample;
+package in.mamga.reminder.weather.clock.time.world.recyclerviewsample.adapters;
 
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
@@ -8,6 +8,9 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import java.util.List;
+
+import in.mamga.reminder.weather.clock.time.world.recyclerviewsample.R;
+import in.mamga.reminder.weather.clock.time.world.recyclerviewsample.model.HorizontalItem;
 
 /**
  * <h1>HorizontalRecyclerAdapter</h1>

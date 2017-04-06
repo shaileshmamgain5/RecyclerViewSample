@@ -10,6 +10,10 @@ import android.view.View;
 
 import java.util.ArrayList;
 
+import in.mamga.reminder.weather.clock.time.world.recyclerviewsample.adapters.HorizontalRecyclerAdapter;
+import in.mamga.reminder.weather.clock.time.world.recyclerviewsample.adapters.VerticalRecyclerAdapter;
+import in.mamga.reminder.weather.clock.time.world.recyclerviewsample.model.VerticalItem;
+
 
 /**
  * <h1>MainActivity</h1>

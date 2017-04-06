@@ -1,6 +1,9 @@
-package in.mamga.reminder.weather.clock.time.world.recyclerviewsample;
+package in.mamga.reminder.weather.clock.time.world.recyclerviewsample.model;
 
 import java.util.Random;
+
+import in.mamga.reminder.weather.clock.time.world.recyclerviewsample.adapters.HorizontalRecyclerAdapter;
+import in.mamga.reminder.weather.clock.time.world.recyclerviewsample.adapters.VerticalRecyclerAdapter;
 
 /**
  * <h1>HorizontalItem</h1>
