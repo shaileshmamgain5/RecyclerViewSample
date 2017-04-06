@@ -23,7 +23,7 @@ public class VerticalItem {
     public VerticalItem() {
         horizontalItems = new ArrayList<HorizontalItem>();
         Random r = new Random();
-        int  numOfElements = 1 + r.nextInt(9);
+        int  numOfElements = 3 + r.nextInt(9);
 
         for (int i = 0; i < numOfElements ; i++) {
             horizontalItems.add(new HorizontalItem());
